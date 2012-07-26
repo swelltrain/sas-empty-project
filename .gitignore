@@ -1,2 +1,26 @@
+# logs
 *.log
+
+# sas data sets
 *.sas7bdat
+
+# sas views
+*.sas7bvew
+
+# sas catalog
+*.sas7bcat
+
+# sas indexes
+*.sas7bndx
+
+# sas audit files
+*.sas7baud
+
+# sas stored programs
+*.sas7bpgm
+
+# sas MDDB
+*.sas7bmdb
+
+# sas item store
+*.sas7bitm
