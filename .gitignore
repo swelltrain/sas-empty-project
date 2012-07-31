@@ -1,6 +1,9 @@
 # logs
 *.log
 
+# and anything in the log directory
+/log/*
+
 # sas data sets
 *.sas7bdat
 
