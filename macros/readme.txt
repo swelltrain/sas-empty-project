@@ -1,0 +1,3 @@
+/* store macros here as
+   macro name.sas
+*/
